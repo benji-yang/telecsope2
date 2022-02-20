@@ -11,5 +11,6 @@ Orbit: Lagrange point 2, 1.5 million km from Earth
 
 First telescope
 Second telescope
+Third telescope
 
 
